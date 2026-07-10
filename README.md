@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Etondi-Tambi! 👋
 
-<!--
-**etondi-tambi/etondi-tambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech professional specializing in **Cybersecurity and Cloud Infrastructure**. This GitHub profile is a live portfolio to showcase my hands-on security labs, automation scripts, and technical skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Operating Systems:** Linux (Ubuntu/Debian), Windows Server
+- **Security & Monitoring:** SIEM, Log Analysis, Vulnerability Assessment
+- **Cloud Platforms:** Microsoft Azure / AWS
+- **Core Tools:** Git, GitHub, PowerShell/Python
+
+---
+
+## 📈 Featured Cybersecurity Project(among others)
+- 🛡️ **[Cloud Honeypot & SIEM Log Analysis Lab](https://github.com/etondi-tambi/cybersecurity-honeypot-siem-lab)** - *Currently building:* Deploying a vulnerable cloud virtual machine to capture live global attack traffic, parse geographic data via script, and visualize threats on an interactive SIEM map.
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/etondi87]
+- **Email:** [will be provided to prospective employers as requested]
