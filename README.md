@@ -1,7 +1,9 @@
 # Hi, I'm Etondi-Tambi! 👋
 
 I am a tech professional specializing in **Cybersecurity and Cloud Infrastructure**. This GitHub profile is a live portfolio to showcase my hands-on security labs, automation scripts, and technical skills.
+### 🛡️ Cybersecurity & Lab Progress
 
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/etondi.png)](https://tryhackme.com/p/etondi)
 ---
 
 ## 🛠️ Tech Stack & Skills
